@@ -1,4 +1,4 @@
-# package-laravel-filament-boilerplate
+# SilumanIT-laravel 10
 
 # Filament's Prerequisites: 
   
